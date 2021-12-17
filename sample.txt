@@ -1,4 +1,9 @@
 hello guys
 good morning
+<<<<<<< HEAD
 im from kadapa 
 and you
+=======
+how are you
+im good
+>>>>>>> future
